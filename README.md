@@ -1,4 +1,4 @@
-# Mixamo Combiner
+# Mixamo Combiner blender
 mixamo combiner for blender
 
 1. highlight the keyframes u wanna change
